@@ -1,0 +1,11 @@
+div#buttons{
+    background: wheat;
+    padding: 10px;
+}
+div#display{
+    color: white;
+}
+
+#calculator{
+    background: black;
+}
